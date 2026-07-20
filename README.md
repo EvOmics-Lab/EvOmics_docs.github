@@ -1,5 +1,3 @@
-# .github
-EvOmics-Lab
 # Evolution and comparative multi-Omics (EvOmics) Lab
 
 Welcome to the GitHub organisation of the **Evolution and Comparative Multi-Omics Lab** at the **Center for Quantitative Genetics and Genomics (QGG), Aarhus University**.
