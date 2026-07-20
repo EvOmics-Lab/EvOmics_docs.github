@@ -1,6 +1,6 @@
 # Evolution and comparative multi-Omics (EvOmics) Lab
 
-Welcome to the GitHub organisation of the **Evolution and Comparative Multi-Omics Lab** at the **Center for Quantitative Genetics and Genomics (QGG), Aarhus University**.
+Welcome to the GitHub of the **EvOmics Lab** at the **Center for Quantitative Genetics and Genomics (QGG), Aarhus University**.
 
 Our lab develops computational methods to understand how evolutionary processes shape complex traits in plants. By integrating **bioinformatics**, **evolutionary biology**, **artificial intelligence**, and **multi-omics** approaches, we investigate how gene duplication, gene loss, pleiotropy, and functional redundancy contribute to functional innovation and adaptation. Our goal is to identify conserved and convergent genetic pathways underlying key agronomic traits, generating insights relevant to both basic plant biology and applied crop research.
 
@@ -10,16 +10,14 @@ Our lab develops computational methods to understand how evolutionary processes 
 
 Our research focuses on:
 
-* Evolution of Complex Traits:
-    ### Comparative genomics and phylogenomics
-* Functional Innovation
-
-* Evolution of gene duplication and gene loss
-* Functional divergence and redundancy
-* Comparative QTLomics
-* Multi-omics data integration
-* Machine learning and AI for biology
-* Plant evolution and crop improvement
+#### Evolution of Complex Traits:
+    * Comparative genomics and phylogenomics
+    * Comparative QTLomics
+    * Multi-omics data integration
+    
+#### Functional Innovation
+    * Evolution of gene duplication and gene loss
+    * Functional divergence and redundancy
 
 ---
 
