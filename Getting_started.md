@@ -10,11 +10,11 @@ This document contains practical information to help you get started in the lab,
 
 ## 1. General information about the Lab: 
 
-**Lab mission:** The EvOmics Lab seeks to combine evolution with gene functional information through the development of computational methods and integrative multi-omics approaches. We investigate how gene duplication, gene loss, pleiotropy, and functional redundancy drive functional innovation and trait evolution across plant species. We are committed to producing open, reproducible computational tools and fostering interdisciplinary collaborations to study plant biology and contribute to future crop improvement. 
++ **Lab mission:** The EvOmics Lab seeks to combine evolution with gene functional information through the development of computational methods and integrative multi-omics approaches. We investigate how gene duplication, gene loss, pleiotropy, and functional redundancy drive functional innovation and trait evolution across plant species. We are committed to producing open, reproducible computational tools and fostering interdisciplinary collaborations to study plant biology and contribute to future crop improvement. 
 
-**Lab vision:** Advance our understanding of how evolutionary processes shape complex traits in plants and to translate this knowledge into innovative solutions for sustainable agriculture. By integrating evolutionary biology, comparative genomics, and artificial intelligence, we aim to uncover the genetic principles underlying crop diversity, adaptation, and resilience, enabling the development of more productive and climate-resilient crops. 
++ **Lab vision:** Advance our understanding of how evolutionary processes shape complex traits in plants and to translate this knowledge into innovative solutions for sustainable agriculture. By integrating evolutionary biology, comparative genomics, and artificial intelligence, we aim to uncover the genetic principles underlying crop diversity, adaptation, and resilience, enabling the development of more productive and climate-resilient crops. 
 
-**Values:** QGG and our lab welcome people with different backgrounds from all over the world. For that, the values we encourage are respect, collaboration, inclusivity, and communication. Please feel free to come to talk with me or HR if you have any problems at the workplace. 
++ **Values:** QGG and our lab welcome people with different backgrounds from all over the world. For that, the values we encourage are respect, collaboration, inclusivity, and communication. Please feel free to come to talk with me or HR if you have any problems at the workplace. 
 
 **Lab web page:**  https://evomics.wordpress.com/ 
 
