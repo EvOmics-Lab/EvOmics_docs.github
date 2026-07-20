@@ -11,13 +11,14 @@ Our lab develops computational methods to understand how evolutionary processes 
 Our research focuses on:
 
 #### Evolution of Complex Traits:
-    * Comparative genomics and phylogenomics
     * Comparative QTLomics
+    * Comparative genomics and phylogenomics
     * Multi-omics data integration
     
 #### Functional Innovation
     * Evolution of gene duplication and gene loss
     * Functional divergence and redundancy
+    * Functional propagation
 
 ---
 
@@ -25,17 +26,16 @@ Our research focuses on:
 
 We aim to:
 
-* Develop open-source computational tools for comparative biology.
+* Develop open-source computational tools for comparative genomics and plant research.
 * Build reproducible and scalable bioinformatics workflows.
 * Integrate evolutionary information across species to better understand complex traits.
-* Generate community resources for comparative genomics and plant research.
 * Promote reproducible, collaborative, and open science.
 
 ---
 
 ## 📂 Repository Guide
 
-Our repositories are organized into several categories:
+Our repositories are organised into several categories:
 
 ### 🧬 Research Software
 
@@ -43,11 +43,11 @@ Open-source tools developed in the lab.
 
 Examples:
 
+* LDO-finder
 * HOGPROP
 * ortho-QTLsearch
-* QTLCopilot
-* ComparativeQTLomics
 
+  
 ### ⚙️ Pipelines
 
 Reusable workflows for genomic and transcriptomic analyses.
@@ -55,7 +55,7 @@ Reusable workflows for genomic and transcriptomic analyses.
 Examples include:
 
 * Genome annotation
-* RNA-seq
+* RNA-seq analysis
 * Comparative genomics
 * Orthology inference
 * Functional annotation
@@ -93,7 +93,6 @@ We strive to make all software:
 * Reproducible
 * Version controlled
 * Easy to install
-* Extensively tested whenever possible
 
 Most repositories include:
 
@@ -124,11 +123,10 @@ Before contributing:
 
 We believe that scientific software should be:
 
+* FAIR (Findable, Accessible, Interoperable, and Reusable)
 * Reproducible
-* FAIR
 * Accessible
 * Well documented
-* Reusable by the community
 
 Whenever possible, our software and analyses are released under open-source licenses.
 
@@ -151,14 +149,9 @@ If you are interested in collaborating or joining the lab, please get in touch.
 
 ## 📫 Contact
 
-**Evolution and Comparative Multi-Omics Lab**
-
-Center for Quantitative Genetics and Genomics (QGG)
-Aarhus University
-Denmark
-
+**EvOmics Lab**
 For more information, please visit our lab website or contact us through the information provided there.
 
 ---
 
-*"Understanding plant evolution through comparative genomics to accelerate crop discovery and improvement."*
+*"Understanding plant evolution through comparative genomics to accelerate crop development and improvement."*
