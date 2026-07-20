@@ -16,25 +16,25 @@ This document contains practical information to help you get started in the lab,
 
 + **Values:** QGG and our lab welcome people with different backgrounds from all over the world. For that, the values we encourage are respect, collaboration, inclusivity, and communication. Please feel free to come to talk with me or HR if you have any problems at the workplace. 
 
-**Lab web page:**  https://evomics.wordpress.com/ 
++ **Lab web page:**  https://evomics.wordpress.com/ 
 
-**GitHub:** https://github.com/EvOmics-Lab 
++ **GitHub:** https://github.com/EvOmics-Lab 
 
-**QGG web page:** https://qgg.au.dk/en/1 
++ **QGG web page:** https://qgg.au.dk/en/1 
 
  
 
 ## 2. Before your first day 
 
-**Office address:** C. F. Møllers Allé 3, bld. 1130, 8000 Aarhus 
++ **Office address:** C. F. Møllers Allé 3, bld. 1130, 8000 Aarhus 
 
-**QGG email:** you will get an account before you join the lab. Follow the instructions to activate and change your user name. 
++ **QGG email:** you will get an account before you join the lab. Follow the instructions to activate and change your user name. 
 
-**Important contacts:**
++ **Important contacts:**
 
-Irene Julca – Principal investigator (irene.julca@qgg.au.dk) 
+   Irene Julca – Principal investigator (irene.julca@qgg.au.dk) 
 
-Louise Fischer Koue - Chief Secretary QGG (lfkoue@qgg.au.dk) 
+   Louise Fischer Koue - Chief Secretary QGG (lfkoue@qgg.au.dk) 
 
  
 
@@ -42,13 +42,13 @@ Louise Fischer Koue - Chief Secretary QGG (lfkoue@qgg.au.dk)
 
 ### 3.1 Building access, key, and card:  
 
-In your fist day you will receive a card to access the building and a key to access the offices. Also, please check your qgg email for your Access Code to the main doors. This code is only needed when the main doors are locked, usually after 5pm, weekends, or holiday periods. 
+In your fist day you will receive a card to access the building and a key to access the offices. Also, please check your QGG email for your Access Code to the main doors. This code is only needed when the main doors are locked, usually after 5 pm, weekends, or holiday periods. 
 
 ### 3.2 Laptop 
 
-You will get a laptop on your first day. It usually has windows installed, if you need to install ubuntu, you need to do it yourself. I can help you with that, just let me know. If you decide to do it in your own, here is some information: 
+You will get a laptop on your first day. It usually has Windows installed, if you need to install Ubuntu, you need to do it yourself. I can help you with that, just let me know. If you decide to do it on your own, here is some information: 
 
-Prepare a bootable ubuntu USB 
+- [o] Prepare a bootable ubuntu USB 
 
 You need to activate Heimdal. This will grant you temporary administrator rights for 30 minute. You can activate Heimdal by right-clicking the blue Heimdal icon in the bottom right corner of your screen and selecting "Privileges App Control - "Request Admin Privileges.” Then, enter your auID@uni.au.dk and AU-password, when you run a program as administrator. For more information, check this link:  https://medarbejdere.au.dk/en/administration/it/guides/security/activate-admin-rights-heimdal 
 
